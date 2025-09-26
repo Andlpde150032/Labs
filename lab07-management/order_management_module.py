@@ -6,7 +6,7 @@ DB_CONFIG = {
     'user': 'root',
     'password': 'sa123', 
     'host': '127.0.0.1',
-    'database': 'shop_order_management' # <-- Tên DB mới
+    'database': 'shop_order_management' 
 }
 
 def get_db_connection():
